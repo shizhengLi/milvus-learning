@@ -206,10 +206,11 @@ kubectl get pods -n milvus
 ### 如何贡献
 
 1. **Fork 项目**
+   
    ```bash
-   git clone https://github.com/your-username/milvus-learning.git
+   git clone git@github.com:shizhengLi/milvus-learning.git
    ```
-
+   
 2. **创建分支**
    ```bash
    git checkout -b feature/amazing-feature
@@ -243,16 +244,6 @@ kubectl get pods -n milvus
 - **官方文档**: [https://milvus.io/docs/](https://milvus.io/docs/)
 - **GitHub 仓库**: [https://github.com/milvus-io/milvus](https://github.com/milvus-io/milvus)
 
-### 💬 社区交流
-- **Discord**: [Milvus Discord](https://discord.gg/8uyFbEC5Zd)
-- **Slack**: [Milvus Slack](https://join.slack.com/t/milvusio/shared_invite/zt-e0u4h9kx-IQK3fXqJ5g8fG2z4z0k6Q)
-- **论坛**: [Milvus Forum](https://forum.milvus.io/)
-
-### 📧 联系我们
-- **邮箱**: [contact@example.com](mailto:contact@example.com)
-- **Twitter**: [@MilvusIO](https://twitter.com/milvusio)
-- **微信公众号**: Milvus向量数据库
-
 ---
 
 ## 📄 许可证
@@ -271,21 +262,6 @@ kubectl get pods -n milvus
 - [Docker](https://www.docker.com/) - 容器化平台
 - [Prometheus](https://prometheus.io/) - 监控系统
 - [Grafana](https://grafana.com/) - 可视化平台
-
----
-
-## 📈 项目统计
-
-<div align="center">
-
-![GitHub Stars](https://img.shields.io/github/stars/your-username/milvus-learning?style=for-the-badge&logo=github)
-![GitHub Forks](https://img.shields.io/github/forks/your-username/milvus-learning?style=for-the-badge&logo=github)
-![GitHub Issues](https://img.shields.io/github/issues/your-username/milvus-learning?style=for-the-badge&logo=github)
-
-![Contributors](https://img.shields.io/github/contributors/your-username/milvus-learning?style=for-the-badge)
-![Last Commit](https://img.shields.io/github/last-commit/your-username/milvus-learning?style=for-the-badge&logo=github)
-
-</div>
 
 ---
 

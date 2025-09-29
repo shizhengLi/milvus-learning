@@ -1,15 +1,11 @@
 # 🚀 Milvus 技术深度解析
 
 <div align="center">
-
-![Milvus Logo](https://raw.githubusercontent.com/milvus-io/milvus/master/assets/logo/milvus-logo.svg)
-
 **开源向量数据库的技术深度解析系列**
 
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Milvus](https://img.shields.io/badge/Milvus-v2.3+-orange.svg)](https://milvus.io/)
 [![Language](https://img.shields.io/badge/Language-Chinese-red.svg)](https://github.com/)
-[![Stars](https://img.shields.io/github/stars/your-username/milvus-learning?style=social)](https://github.com/your-username/milvus-learning)
 
 [![Go Report Card](https://goreportcard.com/badge/github.com/milvus-io/milvus)](https://goreportcard.com/report/github.com/milvus-io/milvus)
 [![Docker](https://img.shields.io/badge/Docker-Support-blue)](https://hub.docker.com/r/milvusdb/milvus)
@@ -63,8 +59,6 @@
 | 序号 | 文章标题 | 核心内容 | 技术深度 |
 |------|----------|----------|----------|
 | 10 | [部署最佳实践](./10-milvus-deployment-best-practices.md) | Kubernetes 部署、运维管理、监控告警 | ⭐⭐⭐⭐ |
-| 11 | [安全特性](./11-milvus-security-features.md) | 访问控制、数据加密、网络安全 | ⭐⭐⭐ |
-| 12 | [AI 应用案例](./12-milvus-ai-applications.md) | 实际 AI 应用场景和解决方案 | ⭐⭐⭐ |
 
 ---
 
